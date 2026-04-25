@@ -5,6 +5,8 @@ CLAUDE.md
 
 assets/ui-reference
 
+assets/pdf-reference
+
 node_modules
 package-lock.json
 package.json

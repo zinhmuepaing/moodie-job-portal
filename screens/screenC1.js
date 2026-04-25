@@ -67,6 +67,7 @@ export function initSelection({ buttonEl, role, cwfRows, tscRows, ccsRows }) {
       return {
         code,
         title: skill?.TSC_CCS_Title ?? code,
+        category: skill?.TSC_CCS_Category ?? '',
         kind: selection.get(code).kind,
         level: skill?.Proficiency_Level ?? '',
         levelDescription: skill?.Level_Description ?? '',
