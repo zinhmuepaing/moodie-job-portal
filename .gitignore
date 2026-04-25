@@ -4,3 +4,7 @@ data/*.xlsx
 CLAUDE.md
 
 assets/ui-reference
+
+node_modules
+package-lock.json
+package.json
