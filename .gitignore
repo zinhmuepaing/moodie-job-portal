@@ -1,0 +1,6 @@
+# .gitignore
+data/*.xlsx
+
+CLAUDE.md
+
+assets/ui-reference
